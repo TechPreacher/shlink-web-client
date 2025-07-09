@@ -1,8 +1,8 @@
 {
   "name": "shlink-web-client",
   "description": "A React-based progressive web application for shlink",
-  "private": false,
-  "homepage": "",
+  "private": true,
+  "homepage": "/shlink-admin",
   "repository": "https://github.com/shlinkio/shlink-web-client",
   "license": "MIT",
   "type": "module",
